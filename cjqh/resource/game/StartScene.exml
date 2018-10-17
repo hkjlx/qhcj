@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="StartSceneexml" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect left="0" right="0" top="0" bottom="0" fillColor="0x6d2929"/>
+	<e:Label text="第一个场景" x="115" y="486" anchorOffsetX="0" anchorOffsetY="0" size="82"/>
+	<e:Label id="btn_tc" text="点击弹出场景" x="340" y="104" size="45"/>
+	<e:Label id="btn_qh2" text="切换到场景二" x="188" y="962" size="44"/>
+</e:Skin>

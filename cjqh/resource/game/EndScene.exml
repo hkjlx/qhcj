@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="EndSceneexml" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect left="0" right="0" top="0" bottom="0" fillColor="0x5a105e"/>
+	<e:Label text="第三个场景" size="65" horizontalCenter="0" verticalCenter="0"/>
+	<e:Label id="btn_fh" text="返回到第一个场景" x="198" y="935"/>
+</e:Skin>
